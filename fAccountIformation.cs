@@ -50,7 +50,7 @@ namespace QuanLyNhaHangVKAT
                 }
                 else
                 {
-                    MessageBox.Show("Vui lòng điền đúng mật khẩu!", "Thông báo");
+                    MessageBox.Show("Vui lòng điền đúng mật khẩu!, ko dien dung thi cut!", "Thông báo");
                 }
             }
 
