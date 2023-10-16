@@ -1,0 +1,26 @@
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+D:\$ LAP TRINH WINDOW\WINDOW FORM\QuanLyNhaHangVKAT\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+D:\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe.config
+D:\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.exe
+D:\QuanLyNhaHangVKAT\bin\Debug\QuanLyNhaHangVKAT.pdb
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.AssemblyReference.cache
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAccountIformation.resources
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fAdmin.resources
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.flogin.resources
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.fTableManager.resources
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.Properties.Resources.resources
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.GenerateResource.cache
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.exe
+D:\QuanLyNhaHangVKAT\obj\Debug\QuanLyNhaHangVKAT.pdb
